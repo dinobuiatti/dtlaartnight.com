@@ -1,3 +1,5 @@
+> This repo is dinobuiatti/dtlaartnight.com. See CLAUDE.md REPO IDENTITY / CCP REPO GUARD before running any CCP.
+
 <!-- BEGIN:nextjs-agent-rules -->
 # This is NOT the Next.js you know
 
